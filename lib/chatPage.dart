@@ -120,6 +120,9 @@ class ChatPageState extends State<ChatPage> {
     height = MediaQuery.of(context).size.height;
     width = MediaQuery.of(context).size.width;
     return Scaffold(
+      appBar: AppBar(
+        title: Text('Chat'),
+      ),
       body: SingleChildScrollView(
         child: Column(
           children: <Widget>[
