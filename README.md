@@ -1,6 +1,6 @@
 # duplex_client
 
-A new Flutter project.
+A simple one-screen, text-based chat application.
 
 ## Getting Started
 
